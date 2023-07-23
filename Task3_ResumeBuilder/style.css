@@ -1,0 +1,32 @@
+#cv-template
+{
+    display: none;
+}
+.myimg
+{
+    border-radius: 50%;
+    width: 200px;
+}
+span{
+    background-color: rgb(227, 66, 41);
+    text-shadow: 5px;
+    border-radius: 5px;
+    
+}
+
+.background
+{
+    background-color: rgb(46, 109, 186);
+    
+}
+
+.big-size
+{
+    font-size: 35px;
+    
+}
+.small-size
+{
+    font-size: 10px;
+    
+}
